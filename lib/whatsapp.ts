@@ -1,4 +1,4 @@
-const PHONE = "3008236761";
+const PHONE = "3006227196";
 
 export const message_whatsapp = `Hola, buen día.
                           Estoy interesado en conocer más sobre sus servicios profesionales y recibir una propuesta adaptada a mis requerimientos.
